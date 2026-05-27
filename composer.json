@@ -12,7 +12,7 @@
         "barryvdh/laravel-dompdf": "^2.0",
         "maatwebsite/excel": "^3.1"
     },
-  "require-dev": {
+    "require-dev": {
         "fakerphp/faker": "^1.9.1",
         "laravel/sail": "^1.0.1",
         "mockery/mockery": "^1.4.4",
